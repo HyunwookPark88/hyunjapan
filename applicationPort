@@ -1,6 +1,6 @@
 DestinationPort,ApplicationProtocol
 0,"ping"
-0,"ipsec-sep"
+0,"ipsec-esp"
 0,"icmp"
 80,"web-browsing"
 80,"adobe-update"
