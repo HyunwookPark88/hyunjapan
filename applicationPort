@@ -2,6 +2,7 @@ DestinationPort,ApplicationProtocol
 0,"ping"
 0,"ipsec-esp"
 0,"icmp"
+0,"ospf"
 80,"web-browsing"
 80,"adobe-update"
 80,"ms-sms"
