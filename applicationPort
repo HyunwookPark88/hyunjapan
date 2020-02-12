@@ -40,8 +40,6 @@ DestinationPort,ApplicationProtocol
 80,telegram
 80,pandora
 80,"firefox-update"
-80,bitdefender
-80,"unknown-tcp"
 80,nagios
 80,yum
 80,"dropbox-base"
@@ -60,7 +58,6 @@ DestinationPort,ApplicationProtocol
 80,rss
 80,"last.fm"
 80,tiktok
-80,iheartradio
 80,bananatag
 80,"http-proxy"
 80,shoutcast
@@ -75,8 +72,10 @@ DestinationPort,ApplicationProtocol
 80,trendmicro
 80,"salesforce-base"
 80,taobao
-80,bittorrent
 80,tanium
+161,"snmpv1"
+161,"snmpv2"
+161,"snmp-base"
 443,ssl
 443,"ms-teams"
 443,"viber-base"
