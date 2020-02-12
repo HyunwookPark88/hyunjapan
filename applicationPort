@@ -79,6 +79,7 @@ DestinationPort,ApplicationProtocol
 80,tanium
 161,"snmpv1"
 161,"snmpv2"
+161,"snmpv3"
 161,"snmp-base"
 443,ssl
 443,"ms-teams"
