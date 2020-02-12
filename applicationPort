@@ -1,4 +1,6 @@
 DestinationPort,ApplicationProtocol
+0,"ping"
+0,"ipsec-sep"
 80,"web-browsing"
 80,"adobe-update"
 80,"ms-sms"
