@@ -48,7 +48,7 @@
 "TCP",46,"MPM [default send]"
 "TCP",47,"NI FTP"
 "TCP",48,"Digital Audit Daemon"
-"TCP",49,"Login Host Protocol (TACACS)"
+"TCP",49,"tacacs-plus"
 "TCP",50,"Remote Mail Checking Protocol"
 "TCP",51,"IMP Logical Address Maintenance"
 "TCP",52,"XNS Time Protocol"
